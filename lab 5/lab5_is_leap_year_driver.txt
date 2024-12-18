@@ -1,0 +1,43 @@
+Script started on 2023-09-27 17:34:45-04:00 [TERM="xterm" TTY="/dev/pts/1" COLUMNS="80" LINES="24"]
+[?2004h]0;tur26337@cis-lclient01: ~/lab5tur26337@cis-lclient01:~/lab5$ nano lab5_leap_year_driver.c./a.out[K
+[?2004lHello! Please put in desired year!1700
+This should print out 1 if correct and 0 if not a leap year, 0 
+[?2004h]0;tur26337@cis-lclient01: ~/lab5tur26337@cis-lclient01:~/lab5$ 1800
+[?2004l1800: command not found
+[?2004h]0;tur26337@cis-lclient01: ~/lab5tur26337@cis-lclient01:~/lab5$ 1800./a.out
+[?2004lHello! Please put in desired year!1800
+This should print out 1 if correct and 0 if not a leap year, 0 
+[?2004h]0;tur26337@cis-lclient01: ~/lab5tur26337@cis-lclient01:~/lab5$ ./a.out[3P1800./a.out
+[?2004lHello! Please put in desired year!18 0 900
+This should print out 1 if correct and 0 if not a leap year, 0 
+[?2004h]0;tur26337@cis-lclient01: ~/lab5tur26337@cis-lclient01:~/lab5$ ./a.out[3P1800./a.out
+[?2004lHello! Please put in desired year!2100
+This should print out 1 if correct and 0 if not a leap year, 0 
+[?2004h]0;tur26337@cis-lclient01: ~/lab5tur26337@cis-lclient01:~/lab5$ ./a.out
+[?2004lHello! Please put in desired year!2200
+This should print out 1 if correct and 0 if not a leap year, 0 
+[?2004h]0;tur26337@cis-lclient01: ~/lab5tur26337@cis-lclient01:~/lab5$ ./a.out
+[?2004lHello! Please put in desired year!2300
+This should print out 1 if correct and 0 if not a leap year, 0 
+[?2004h]0;tur26337@cis-lclient01: ~/lab5tur26337@cis-lclient01:~/lab5$ ./a.out[3P1800./a.out
+[?2004lHello! Please put in desired year!2500
+This should print out 1 if correct and 0 if not a leap year, 0 
+[?2004h]0;tur26337@cis-lclient01: ~/lab5tur26337@cis-lclient01:~/lab5$ ./a.out
+[?2004lHello! Please put in desired year!2600
+This should print out 1 if correct and 0 if not a leap year, 0 
+[?2004h]0;tur26337@cis-lclient01: ~/lab5tur26337@cis-lclient01:~/lab5$ 1600[K[K[K[K./a.out
+[?2004lHello! Please put in desired year!1600
+This should print out 1 if correct and 0 if not a leap year, 1 
+[?2004h]0;tur26337@cis-lclient01: ~/lab5tur26337@cis-lclient01:~/lab5$ ./a.out[3P1800./a.out
+[?2004lHello! Please put in desired year!200
+This should print out 1 if correct and 0 if not a leap year, 0 
+[?2004h]0;tur26337@cis-lclient01: ~/lab5tur26337@cis-lclient01:~/lab5$ ./a.out
+[?2004lHello! Please put in desired year!2000
+This should print out 1 if correct and 0 if not a leap year, 1 
+[?2004h]0;tur26337@cis-lclient01: ~/lab5tur26337@cis-lclient01:~/lab5$ 24[K[K./a.out
+[?2004lHello! Please put in desired year!2400
+This should print out 1 if correct and 0 if not a leap year, 1 
+[?2004h]0;tur26337@cis-lclient01: ~/lab5tur26337@cis-lclient01:~/lab5$ exit
+[?2004lexit
+
+Script done on 2023-09-27 17:36:03-04:00 [COMMAND_EXIT_CODE="0"]

@@ -1,0 +1,97 @@
+Script started on 2023-10-06 10:09:44-04:00 [TERM="xterm" TTY="/dev/pts/1" COLUMNS="157" LINES="49"]
+[?2004h]0;tur26337@cis-lclient12: ~/lab5tur26337@cis-lclient12:~/lab5$ exit./a.out
+[?2004lPlease enter desired date! 
+Enter 1 for day, 2 for month, 3 for year 
+1
+Please enter a day 
+23
+Please enter desired month! 
+Enter 1 for day, 2 for month, 3 for year 
+2
+Please enter a month 
+3
+Please enter desired year! 
+Enter 1 for day, 2 for month, 3 for year 
+3
+Please enter a year 
+2020
+Is it a valid date? 
+It will print 1 for a valid date and 0 if it is not, 1 
+Is it a leap year? 
+It will print 1 for if it is a leap year and 0 if it is not, answer: 1 
+The Ordinal date is 83 
+The date in US terms is,  3/23/2020
+The date in a Julianized calendar is 2020 83
+[?2004h]0;tur26337@cis-lclient12: ~/lab5tur26337@cis-lclient12:~/lab5$ ./a.out
+[?2004lPlease enter desired date! 
+Enter 1 for day, 2 for month, 3 for year 
+1
+Please enter a day 
+2
+Please enter desired month! 
+Enter 1 for day, 2 for month, 3 for year 
+2
+Please enter a month 
+2
+Please enter desired year! 
+Enter 1 for day, 2 for month, 3 for year 
+3
+Please enter a year 
+2019
+Is it a valid date? 
+It will print 1 for a valid date and 0 if it is not, 1 
+Is it a leap year? 
+It will print 1 for if it is a leap year and 0 if it is not, answer: 0 
+The Ordinal date is 33 
+The date in US terms is,  2/ 2/2019
+The date in a Julianized calendar is 2019 33
+[?2004h]0;tur26337@cis-lclient12: ~/lab5tur26337@cis-lclient12:~/lab5$ 1[K./a.out
+[?2004lPlease enter desired date! 
+Enter 1 for day, 2 for month, 3 for year 
+1
+Please enter a day 
+19
+Please enter desired month! 
+Enter 1 for day, 2 for month, 3 for year 
+2
+Please enter a month 
+8
+Please enter desired year! 
+Enter 1 for day, 2 for month, 3 for year 
+3
+Please enter a year 
+1900
+Is it a valid date? 
+It will print 1 for a valid date and 0 if it is not, 1 
+Is it a leap year? 
+It will print 1 for if it is a leap year and 0 if it is not, answer: 0 
+The Ordinal date is 231 
+The date in US terms is,  8/19/1900
+The date in a Julianized calendar is 1900231
+[?2004h]0;tur26337@cis-lclient12: ~/lab5tur26337@cis-lclient12:~/lab5$ ./a.out
+[?2004lPlease enter desired date! 
+Enter 1 for day, 2 for month, 3 for year 
+1
+Please enter a day 
+31
+Please enter desired month! 
+Enter 1 for day, 2 for month, 3 for year 
+2
+Please enter a month 
+5
+Please enter desired year! 
+Enter 1 for day, 2 for month, 3 for year 
+3
+Please enter a year 
+1918
+Is it a valid date? 
+It will print 1 for a valid date and 0 if it is not, 1 
+Is it a leap year? 
+It will print 1 for if it is a leap year and 0 if it is not, answer: 0 
+The Ordinal date is 151 
+The date in US terms is,  5/31/1918
+The date in a Julianized calendar is 1918151
+[?2004h]0;tur26337@cis-lclient12: ~/lab5tur26337@cis-lclient12:~/lab5$ exit
+[?2004lexit
+
+Script done on 2023-10-06 10:12:56-04:00 [COMMAND_EXIT_CODE="0"]
